@@ -1,54 +1,30 @@
-\# Student Management System
+# Student Management System
 
-
-
+## Project Overview
 A simple Student Management System built using MySQL.
 
+## Features
+- Create Database
+- Create Table
+- Insert Student Records
+- View Students
+- Search Students
+- Update Student Details
+- Delete Student Records
 
+## Technologies Used
+- MySQL
 
-\## Features
+## Student Records
 
+| ID | Name | Age | Course |
+|----|------|-----|---------|
+| 1 | Sai | 22 | Python |
+| 2 | Srivani | 21 | Java |
+| 3 | Rahul | 23 | SQL |
+| 4 | Anil | 20 | C++ |
+| 5 | Kumar | 22 | Data Science |
 
-
-\- Add Student
-
-\- View Students
-
-\- Search Student
-
-\- Update Student
-
-\- Delete Student
-
-
-
-\## Technologies Used
-
-
-
-\- MySQL
-
-
-
-\## Students
-
-
-
-\- Sai
-
-\- Srivani
-
-\- Rahul
-
-\- Anil
-
-\- Kumar
-
-
-
-\## Author
-
-
-
+## Author
 Sai Meduri
 
